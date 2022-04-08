@@ -12,5 +12,6 @@
     보고서까지 작성하였습니다. 실제 현업 데이터 사이언티스트님의 피드백을 받으며 하나의 프로젝트를 시작하고 마무리짓는 과정을 경험하였습니다.
     
 코드 구성
-    - networkAnaylsis(R) : R로 작성한 네트워크 데이터 시각화 자료
+
+	- networkAnaylsis(R) : R로 작성한 네트워크 데이터 시각화 자료
     - neuralCollaborativeFiltering(Python) : NCF 구현 코드
