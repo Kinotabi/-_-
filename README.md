@@ -14,4 +14,4 @@
 코드 구성
 
 	- networkAnaylsis(R) : R로 작성한 네트워크 데이터 시각화 자료
-    - neuralCollaborativeFiltering(Python) : NCF 구현 코드
+    - neuralCollaborativeFiltering(Python) : python으로 작성한 NCF 구현 코드
